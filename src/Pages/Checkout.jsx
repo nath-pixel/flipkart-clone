@@ -5,7 +5,6 @@ import Stepper from '../components/Stepper';
 import { GrLinkPrevious } from 'react-icons/gr';
 import FloatingField from '../components/FloatingField';
 import { calculatePercentage } from './Home';
-import upiId from '../data/upiId';
 
 const Checkout = () => {
   const { ProductId } = useParams();
@@ -13,6 +12,7 @@ const Checkout = () => {
   const steps = ["", "", ""];
   const [currentStep, setCurrentStep] = useState(1);
   const [complete, setComplete] = useState(false);
+  const upiId = process.env.REACT_APP_UPIID;
 
 
   // Initialize form data state
