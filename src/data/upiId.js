@@ -1,1 +1,1 @@
-export default UPIID =  "9140560@ybl";
+export default upiId =  "9140560@ybl";
