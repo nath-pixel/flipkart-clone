@@ -1,15 +1,13 @@
 /* eslint-disable jsx-a11y/img-redundant-alt */
 import React, { useEffect, useState } from 'react';
-import { Link, useNavigate, useParams } from 'react-router-dom';
+import { Link,  useParams } from 'react-router-dom';
 import { GrLinkPrevious } from "react-icons/gr";
 import { IoSearchOutline } from "react-icons/io5";
 import { IoCartOutline } from "react-icons/io5";
-import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/swiper-bundle.css';
 import productData from '../data/product';
 import { FaStar } from "react-icons/fa6";
 import { calculatePercentage } from './Home';
-import { SlGraph } from "react-icons/sl";
 
 
 import Slider from 'react-slick';
