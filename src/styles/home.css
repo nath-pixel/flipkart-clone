@@ -1,0 +1,99 @@
+
+.hero{
+    margin: auto;
+    width: 100%;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-evenly;
+    background: white;
+}
+
+.hero .heroCard{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.heroCard span{
+    text-transform: capitalize;
+}
+
+.offerImage{
+width: 100%;
+}
+.offerImage img{
+    width: 100%;
+}
+.offerImage .deal
+{
+    width:100%;
+    background: white;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+     
+}
+.offerImage .deal .timer
+{
+    width:80%;
+    background: white;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 30px;
+    gap: 20%;
+
+     
+}
+.offer .deal .deal2{
+ color: blue;
+}
+
+.product{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+   
+    box-sizing: border-box;
+    background: #dad8d8;
+   
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    width: 48%;
+    height: 350px;
+    background: white;
+    margin: 3px;
+}
+
+.card .imgcontainer{
+ height: 60%;
+ width: 100%;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ padding: 11px;
+}
+.card img{
+    height: 100%;
+    width: 100%;
+}
+.card .det{
+     padding: 3px;
+     display: block;
+}
+.card .det .title{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 0.9rem;
+}
+
+.det .discount{
+    color: rgba(0, 0, 0,0.5);
+}

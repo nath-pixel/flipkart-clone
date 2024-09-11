@@ -1,0 +1,20 @@
+
+
+.input:focus,
+.input:valid {
+    color: black;
+    border: 2px solid #b3b3b3;
+    outline: none;
+
+}
+
+.input:valid + .label,
+.input:focus + .label {
+    color: #b3b3b3;
+    height: 20px;
+    line-height: 30px;
+    transform: translate(-15px, -16px) scale(0.78);
+    background: white;
+    z-index: 1111;
+}
+
