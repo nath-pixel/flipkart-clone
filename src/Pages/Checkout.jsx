@@ -5,7 +5,7 @@ import Stepper from '../components/Stepper';
 import { GrLinkPrevious } from 'react-icons/gr';
 import FloatingField from '../components/FloatingField';
 import { calculatePercentage } from './Home';
-import upiId from '../data/upiid';
+import upiId from '../data/upiId';
 
 const Checkout = () => {
   const { ProductId } = useParams();
