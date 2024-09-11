@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "../styles/stepper.css";
 import { TiTick } from "react-icons/ti";
 const Stepper = ({complete,currentStep,steps }) => {
