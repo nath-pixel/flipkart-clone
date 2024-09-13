@@ -92,41 +92,41 @@ const productData=[
   },
     
 
-  {
-    id:"AAGlv5p0PxL020OrCEte9APPKpisKRL0hnhWsrZBqnVIS88fPY",
-    title: "Cello Puro -X Benz 900 Insulated Inner Outer Water 730 ml Bottle  (Pack of 1, Grey, Steel, Plastic)",
-    img: ["https://rukminim2.flixcart.com/image/832/832/xif0q/bottle/m/m/i/900-puro-steel-x-benz-inner-steel-outer-plastic-with-pu-original-imagnd59wtqfg6gh.jpeg?q=70&crop=false"],
-    description: "Transport yourself to a summer state of mind with the Puro range of bottles in strikingly sunny hues. From our unmatched Thermoware range, here at Cello, we present a bottle that is your ideal outdoor companion. Keep cool and drink on with the Puro Steel-X Benz. Pick from a wide array of tropical colours, hydrate with a cool beverage and enjoy the summer splash everyday!",
-    originalPrice: 587,
-    discountedPrice: 99,
-    extras:["../img/img/water-bottle/img-b.jpeg","../img/img/water-bottle/img-a.jpeg"]
-  },
-  {
-    id:"GvUPXXPSsd85JuvjoMeCICoIb4uBjzslHML96cFVgj6BsHkFQ0",
-    title: "Parachute Advansed Gold Coconut Hair Oil, Made with Pure Coconut Oil, Vitamin E Hair Oil (400 ml)",
-    img: ["https://rukminim2.flixcart.com/image/832/832/xif0q/hair-oil/a/8/o/-original-imagssqhzrjk6hxj.jpeg?q=70&crop=false",
-  "https://rukminim2.flixcart.com/image/832/832/xif0q/hair-oil/y/p/8/-original-imagssqhhyznf7qh.jpeg?q=70&crop=false",
-"https://rukminim2.flixcart.com/image/832/832/xif0q/hair-oil/n/m/o/-original-imagssqhtkrhxf9y.jpeg?q=70&crop=false",
-"https://rukminim2.flixcart.com/image/832/832/xif0q/hair-oil/s/k/v/-original-imagssqheehhyhdp.jpeg?q=70&crop=false"
-], 
-    description: "Your hair is a reflection of who you are. Its your identity. And this beautiful relationship deserves care and nourishment. Parachute Advansed Gold strengthens this relationship through deep nourishment with the goodness of Pure Coconut Oil, and Vitamin E so that you get long, strong & gorgeous hair. Daily grooming practices like washing, brushing and styling can cause damage to your hair and leave it looking frizzy, broken and dry. Pure Coconut oil provides a protective layer, moisturizes and softens your hair, reduces breakage, and protects it from protein loss and environmental damages like wind, sun and smoke. Vitamin Es natural anti-oxidant properties improves hair and scalp health. Repair up to 50% of damage with a single application of Parachute Advansed Gold coconut hair oil. Made with the highest quality standards, every coconut that goes into Parachute Advansed Gold Hair Oil is handpicked and sun-dried to ensure a fresh & natural, long lasting aroma. It is free from parabens, sulphates, mineral oil and silicones. Give your hair the best nourishment with Parachute Advansed Gold Hair Oil, and see them grow long, strong and gorgeous.",
-    originalPrice: 235,
-    discountedPrice: 78,
-    extras:["../img/img/parachute/img-a.jpeg","../img/img/parachute/img-b.jpeg"]
-  },
-  {
+  // {
+  //   id:"AAGlv5p0PxL020OrCEte9APPKpisKRL0hnhWsrZBqnVIS88fPY",
+  //   title: "Cello Puro -X Benz 900 Insulated Inner Outer Water 730 ml Bottle  (Pack of 1, Grey, Steel, Plastic)",
+  //   img: ["https://rukminim2.flixcart.com/image/832/832/xif0q/bottle/m/m/i/900-puro-steel-x-benz-inner-steel-outer-plastic-with-pu-original-imagnd59wtqfg6gh.jpeg?q=70&crop=false"],
+  //   description: "Transport yourself to a summer state of mind with the Puro range of bottles in strikingly sunny hues. From our unmatched Thermoware range, here at Cello, we present a bottle that is your ideal outdoor companion. Keep cool and drink on with the Puro Steel-X Benz. Pick from a wide array of tropical colours, hydrate with a cool beverage and enjoy the summer splash everyday!",
+  //   originalPrice: 587,
+  //   discountedPrice: 99,
+  //   extras:["../img/img/water-bottle/img-b.jpeg","../img/img/water-bottle/img-a.jpeg"]
+  // },
+  // {
+//     id:"GvUPXXPSsd85JuvjoMeCICoIb4uBjzslHML96cFVgj6BsHkFQ0",
+//     title: "Parachute Advansed Gold Coconut Hair Oil, Made with Pure Coconut Oil, Vitamin E Hair Oil (400 ml)",
+//     img: ["https://rukminim2.flixcart.com/image/832/832/xif0q/hair-oil/a/8/o/-original-imagssqhzrjk6hxj.jpeg?q=70&crop=false",
+//   "https://rukminim2.flixcart.com/image/832/832/xif0q/hair-oil/y/p/8/-original-imagssqhhyznf7qh.jpeg?q=70&crop=false",
+// "https://rukminim2.flixcart.com/image/832/832/xif0q/hair-oil/n/m/o/-original-imagssqhtkrhxf9y.jpeg?q=70&crop=false",
+// "https://rukminim2.flixcart.com/image/832/832/xif0q/hair-oil/s/k/v/-original-imagssqheehhyhdp.jpeg?q=70&crop=false"
+// ], 
+//     description: "Your hair is a reflection of who you are. Its your identity. And this beautiful relationship deserves care and nourishment. Parachute Advansed Gold strengthens this relationship through deep nourishment with the goodness of Pure Coconut Oil, and Vitamin E so that you get long, strong & gorgeous hair. Daily grooming practices like washing, brushing and styling can cause damage to your hair and leave it looking frizzy, broken and dry. Pure Coconut oil provides a protective layer, moisturizes and softens your hair, reduces breakage, and protects it from protein loss and environmental damages like wind, sun and smoke. Vitamin Es natural anti-oxidant properties improves hair and scalp health. Repair up to 50% of damage with a single application of Parachute Advansed Gold coconut hair oil. Made with the highest quality standards, every coconut that goes into Parachute Advansed Gold Hair Oil is handpicked and sun-dried to ensure a fresh & natural, long lasting aroma. It is free from parabens, sulphates, mineral oil and silicones. Give your hair the best nourishment with Parachute Advansed Gold Hair Oil, and see them grow long, strong and gorgeous.",
+//     originalPrice: 235,
+//     discountedPrice: 78,
+//     extras:["../img/img/parachute/img-a.jpeg","../img/img/parachute/img-b.jpeg"]
+//   },
+//   {
     
-    id: "oQNbhyC8exJPoVBCy0HyJnxrOXdNeOzaTZo9diE4ZqWLO5rw8c",
-    title:"DUREX Ultra Thin Condoms - Air Condom (10 Sheets)",
-    img: ["https://rukminim2.flixcart.com/image/832/832/xif0q/condom/d/o/r/-original-imagpx68fyzpfjyf.jpeg?q=70&crop=false",
-  "https://rukminim2.flixcart.com/image/832/832/xif0q/condom/3/q/y/-original-imagpx68kjckbg2m.jpeg?q=70&crop=false",
-"https://rukminim2.flixcart.com/image/832/832/xif0q/condom/b/w/6/-original-imagpx68egzqwkj8.jpeg?q=70&crop=false",
-"https://rukminim2.flixcart.com/image/832/832/xif0q/condom/y/c/w/-original-imagpx68jcsuyjkj.jpeg?q=70&crop=false"], 
-    description: "The Durex Air condoms take on two of your biggest quests, complete intimacy and total protection. They are durable and are tested to withstand breakage. Greater Sensitivity and Intimacy. These ultra-thin condoms fit like second skin, so you and your partner can enjoy a heightened sense of intimacy. The straight-walled fit of these condoms heightens sensitivity. Protection Guaranteed. Each condom in this pack is dermatologically tested to ensure complete protection. Made of premium-quality latex, they are durable enough to withstand passionate sessions. Lubricated for Your Pleasure. It’s easy to be fully present during intimate moments with your partner because these condoms have a pleasant scent, so you aren’t distracted. The condoms also ease friction, which is a good thing, both for you and your partner. How to Use. Handle these condoms with clean hands. First, ensure that the teat is facing up. Squeeze it to ensure that there’s no air inside. While still squeezing the teat, place the condom on yourself and roll it all the way down to the base. To dispose it, hold the condom at the base as you pull out. Knot it and then discard it.",
-    originalPrice: 225,
-    discountedPrice: 98,
-    extras:["../img/img/durex/img-a.jpeg","../img/img/durex/img-b.jpeg","../img/img/durex/img-c.jpeg"]
-  }, 
+//     id: "oQNbhyC8exJPoVBCy0HyJnxrOXdNeOzaTZo9diE4ZqWLO5rw8c",
+//     title:"DUREX Ultra Thin Condoms - Air Condom (10 Sheets)",
+//     img: ["https://rukminim2.flixcart.com/image/832/832/xif0q/condom/d/o/r/-original-imagpx68fyzpfjyf.jpeg?q=70&crop=false",
+//   "https://rukminim2.flixcart.com/image/832/832/xif0q/condom/3/q/y/-original-imagpx68kjckbg2m.jpeg?q=70&crop=false",
+// "https://rukminim2.flixcart.com/image/832/832/xif0q/condom/b/w/6/-original-imagpx68egzqwkj8.jpeg?q=70&crop=false",
+// "https://rukminim2.flixcart.com/image/832/832/xif0q/condom/y/c/w/-original-imagpx68jcsuyjkj.jpeg?q=70&crop=false"], 
+//     description: "The Durex Air condoms take on two of your biggest quests, complete intimacy and total protection. They are durable and are tested to withstand breakage. Greater Sensitivity and Intimacy. These ultra-thin condoms fit like second skin, so you and your partner can enjoy a heightened sense of intimacy. The straight-walled fit of these condoms heightens sensitivity. Protection Guaranteed. Each condom in this pack is dermatologically tested to ensure complete protection. Made of premium-quality latex, they are durable enough to withstand passionate sessions. Lubricated for Your Pleasure. It’s easy to be fully present during intimate moments with your partner because these condoms have a pleasant scent, so you aren’t distracted. The condoms also ease friction, which is a good thing, both for you and your partner. How to Use. Handle these condoms with clean hands. First, ensure that the teat is facing up. Squeeze it to ensure that there’s no air inside. While still squeezing the teat, place the condom on yourself and roll it all the way down to the base. To dispose it, hold the condom at the base as you pull out. Knot it and then discard it.",
+//     originalPrice: 225,
+//     discountedPrice: 98,
+//     extras:["../img/img/durex/img-a.jpeg","../img/img/durex/img-b.jpeg","../img/img/durex/img-c.jpeg"]
+//   }, 
 
 
 
@@ -188,32 +188,32 @@ const productData=[
       extras:["../img/img/usb-c/img-a.jpeg","../img/img/usb-c/img-b.jpeg","../img/img/usb-c/img-c.jpeg"]
     },
 
-        {
-          id:"XBt6JUXmrwHhkmnEm5QJPizVMj00qXkVZa1ofZd3uBO2t5J2Xo",
-          title: "LA VERNE Fitted King Size Waterproof Mattress Cover (Grey)",
-          img: ["https://rukminim2.flixcart.com/image/832/832/l3lx8cw0/mattress-protector/w/s/n/terry-grey-la-verne-original-imagezre4nmhp6na.jpeg?q=70&crop=false",
-        "https://rukminim2.flixcart.com/image/832/832/kvsfhjk0/mattress-protector/w/f/z/mpt001-fabicoo-original-imag8hthaa6jrgjx.jpeg?q=70&crop=false",
-      "https://rukminim2.flixcart.com/image/832/832/xif0q/mattress-protector/v/t/d/terry-grey-la-verne-original-imags26mygvgtc8r.jpeg?q=70&crop=false",
-      "https://rukminim2.flixcart.com/image/832/832/l3lx8cw0/mattress-protector/i/0/5/terry-grey-la-verne-original-imagezreqewx3ngf.jpeg?q=70&crop=false",
-    ], // Please replace "<image_url_here>" with the actual image URL
-          description: "Protect Your Luxury Mattresses From any Mishapening by this Luxurious MAttress protector From La Verne.The Fabric Is Breathable and Waterproof which keeps your mattress from Dust,Water accidents, and Bacteria. The Terry On top pampers your skin while you sleep and ensures a healthy sleep.The Elastic enclosure keeps it intact with mattress and it fits from all around of your mattress makes it anti skid and gives perfect sheen finish to your Bedsheet. It will enhance the life of your luxurious mattress. Please check the size of your mattress while ordering. Happy To serve your home",
-          originalPrice: 799,
-          discountedPrice: 169,
-          extras:["../img/img/bedsheet/img-a.jpeg","../img/img/bedsheet/img-b.jpeg","../img/img/bedsheet/img-c.jpeg","../img/img/bedsheet/img-d.jpeg"]
-        },
-        {
+    //     {
+    //       id:"XBt6JUXmrwHhkmnEm5QJPizVMj00qXkVZa1ofZd3uBO2t5J2Xo",
+    //       title: "LA VERNE Fitted King Size Waterproof Mattress Cover (Grey)",
+    //       img: ["https://rukminim2.flixcart.com/image/832/832/l3lx8cw0/mattress-protector/w/s/n/terry-grey-la-verne-original-imagezre4nmhp6na.jpeg?q=70&crop=false",
+    //     "https://rukminim2.flixcart.com/image/832/832/kvsfhjk0/mattress-protector/w/f/z/mpt001-fabicoo-original-imag8hthaa6jrgjx.jpeg?q=70&crop=false",
+    //   "https://rukminim2.flixcart.com/image/832/832/xif0q/mattress-protector/v/t/d/terry-grey-la-verne-original-imags26mygvgtc8r.jpeg?q=70&crop=false",
+    //   "https://rukminim2.flixcart.com/image/832/832/l3lx8cw0/mattress-protector/i/0/5/terry-grey-la-verne-original-imagezreqewx3ngf.jpeg?q=70&crop=false",
+    // ], // Please replace "<image_url_here>" with the actual image URL
+    //       description: "Protect Your Luxury Mattresses From any Mishapening by this Luxurious MAttress protector From La Verne.The Fabric Is Breathable and Waterproof which keeps your mattress from Dust,Water accidents, and Bacteria. The Terry On top pampers your skin while you sleep and ensures a healthy sleep.The Elastic enclosure keeps it intact with mattress and it fits from all around of your mattress makes it anti skid and gives perfect sheen finish to your Bedsheet. It will enhance the life of your luxurious mattress. Please check the size of your mattress while ordering. Happy To serve your home",
+    //       originalPrice: 799,
+    //       discountedPrice: 169,
+    //       extras:["../img/img/bedsheet/img-a.jpeg","../img/img/bedsheet/img-b.jpeg","../img/img/bedsheet/img-c.jpeg","../img/img/bedsheet/img-d.jpeg"]
+    //     },
+        // {
           
-            id:"exJYgxZ2fdcLCW0PgvolCxsayv6cPNsXSHuwhYTTgIVYNOGgvF",
-            title: "YFMATS 6MM Premium Eva with Tpe blend Anti slip Tearless Yoga mat with carry Bag Maroon 6 mm Yoga Mat",
-            img: ["https://rukminim2.flixcart.com/image/832/832/xif0q/sport-mat/p/i/l/6mm-premium-eva-with-tpe-blend-anti-slip-tearless-yoga-mat-with-original-imagshwrvbkpfzsm.jpeg?q=70&crop=false",
-          "https://rukminim2.flixcart.com/image/832/832/xif0q/sport-mat/6/k/c/6mm-premium-eva-with-tpe-blend-anti-slip-tearless-yoga-mat-with-original-imagshwrybsshhgd.jpeg?q=70&crop=false",
-        "https://rukminim2.flixcart.com/image/832/832/xif0q/sport-mat/7/n/h/6mm-premium-eva-with-tpe-blend-anti-slip-tearless-yoga-mat-with-original-imagwh2vctuehffh.jpeg?q=70&crop=false"], // Please replace "<image_url_here>" with the actual image URL
-            description: "YFMATS. EVa YOGA MAT This yoga mat is crafted from high-quality EVA material, which is known for its durability and resilience. EVA is an ideal choice for yoga mats because it can withstand the wear and tear of regular exercise routines. It offers a comfortable yet supportive surface that helps protect your joints during workouts. Additionally, EVA is easy to clean and maintain, ensuring that your mat stays in excellent condition over time.",
-            originalPrice: 899,
-            discountedPrice: 149,
-            extras:["../img/img/yfmates/img-a.jpeg","../img/img/yfmates/img-b.jpeg"]
+        //     id:"exJYgxZ2fdcLCW0PgvolCxsayv6cPNsXSHuwhYTTgIVYNOGgvF",
+        //     title: "YFMATS 6MM Premium Eva with Tpe blend Anti slip Tearless Yoga mat with carry Bag Maroon 6 mm Yoga Mat",
+        //     img: ["https://rukminim2.flixcart.com/image/832/832/xif0q/sport-mat/p/i/l/6mm-premium-eva-with-tpe-blend-anti-slip-tearless-yoga-mat-with-original-imagshwrvbkpfzsm.jpeg?q=70&crop=false",
+        //   "https://rukminim2.flixcart.com/image/832/832/xif0q/sport-mat/6/k/c/6mm-premium-eva-with-tpe-blend-anti-slip-tearless-yoga-mat-with-original-imagshwrybsshhgd.jpeg?q=70&crop=false",
+        // "https://rukminim2.flixcart.com/image/832/832/xif0q/sport-mat/7/n/h/6mm-premium-eva-with-tpe-blend-anti-slip-tearless-yoga-mat-with-original-imagwh2vctuehffh.jpeg?q=70&crop=false"], // Please replace "<image_url_here>" with the actual image URL
+        //     description: "YFMATS. EVa YOGA MAT This yoga mat is crafted from high-quality EVA material, which is known for its durability and resilience. EVA is an ideal choice for yoga mats because it can withstand the wear and tear of regular exercise routines. It offers a comfortable yet supportive surface that helps protect your joints during workouts. Additionally, EVA is easy to clean and maintain, ensuring that your mat stays in excellent condition over time.",
+        //     originalPrice: 899,
+        //     discountedPrice: 149,
+        //     extras:["../img/img/yfmates/img-a.jpeg","../img/img/yfmates/img-b.jpeg"]
         
-        },
+        // },
         {
           id:"HDx0HCC0ybkK7cLDB0cC3W7yDvmFllZxn77Of2KSUf5pPshTrdaswDWDWFDSEFEWFEWFEDSADQsqwdsdwedfefewd",
           title:"Prestige Atlas Electric Kettle  (1.5 L, Blue, Silver)",
@@ -255,20 +255,20 @@ const productData=[
     originalPrice:"1999",
     discountedPrice:"349",
     extras:["../img/img/travel-bag/img-a.jpeg","../img/img/travel-bag/img-b.jpeg","../img/img/travel-bag/img-c.jpeg"]
-
-  },{
+  }
+  // },{
           
-          id:"LDc1l1ZDq2lYwyars6zBxcXLOm7wAwxcsa6TvV9s7go9W6Jqss",
-          title: "CELLBELL Desire C104 Mid Back Comfortable Fabric, Mesh Office Executive Chair (Black, DIY(Do-It-Yourself))",
-          img: ["https://rukminim2.flixcart.com/image/832/832/xif0q/outdoor-chair/s/k/w/synthetic-rubber-balagifurniture-bfr-black-original-imagtzvkhhdsv4f2.jpeg?q=70&crop=false",
-        "https://rukminim2.flixcart.com/image/832/832/l0mr7gw0/office-study-chair/d/y/z/46-microfiber-1-c104-cellbell-89-original-imagcdnz5ymgfrnh.jpeg?q=70&crop=false",
-      "https://rukminim2.flixcart.com/image/832/832/l0mr7gw0/office-study-chair/p/3/q/46-microfiber-1-c104-cellbell-89-original-imagcdnzvtupx6rr.jpeg?q=70&crop=false",
-      "https://rukminim2.flixcart.com/image/832/832/l0mr7gw0/office-study-chair/8/q/w/46-microfiber-1-c104-cellbell-89-original-imagcdnzkhn2g9kb.jpeg?q=70&crop=false"], // Please replace "<image_url_here>" with the actual image URL
-          description: "1) Ergonomic Sitting Position : C104 Chair provides you best in class sitting postures for extra comfort. 2) Seat and Base : 2 inch Thick Foam Cushion Padded Seat for your long hours comfort | Pneumatic Hydraulic with 4 inch seat height adjustment | Breathable contoured Mesh Back Fabric | Chair comes with Sturdy Metal Base for extra strength. 3) Lumbar Adjustments : Lumbar adjustments can be pushed upward, down for better supports to the back. It also features locking back support lever adjustment, if you wish to relax or stretch legs! 4) Arm-rest : Padded Arm-rest. 5) Height Suitability : 5 ft to 6 ft. 6) Weight Capacity : 105 Kgs. 7) BIFMA Certified. 8) Warranty : 12 Months Warranty against Manufacturing Defects.",
-          originalPrice: 3999,
-          discountedPrice: 1478,
-          extras:["../img/img/chair/img-c.jpeg","../img/img/chair/img-d.jpeg","../img/img/chair/img-a.jpeg","../img/img/chair/img-b.jpeg"]
-      }
+  //         id:"LDc1l1ZDq2lYwyars6zBxcXLOm7wAwxcsa6TvV9s7go9W6Jqss",
+  //         title: "CELLBELL Desire C104 Mid Back Comfortable Fabric, Mesh Office Executive Chair (Black, DIY(Do-It-Yourself))",
+  //         img: ["https://rukminim2.flixcart.com/image/832/832/xif0q/outdoor-chair/s/k/w/synthetic-rubber-balagifurniture-bfr-black-original-imagtzvkhhdsv4f2.jpeg?q=70&crop=false",
+  //       "https://rukminim2.flixcart.com/image/832/832/l0mr7gw0/office-study-chair/d/y/z/46-microfiber-1-c104-cellbell-89-original-imagcdnz5ymgfrnh.jpeg?q=70&crop=false",
+  //     "https://rukminim2.flixcart.com/image/832/832/l0mr7gw0/office-study-chair/p/3/q/46-microfiber-1-c104-cellbell-89-original-imagcdnzvtupx6rr.jpeg?q=70&crop=false",
+  //     "https://rukminim2.flixcart.com/image/832/832/l0mr7gw0/office-study-chair/8/q/w/46-microfiber-1-c104-cellbell-89-original-imagcdnzkhn2g9kb.jpeg?q=70&crop=false"], // Please replace "<image_url_here>" with the actual image URL
+  //         description: "1) Ergonomic Sitting Position : C104 Chair provides you best in class sitting postures for extra comfort. 2) Seat and Base : 2 inch Thick Foam Cushion Padded Seat for your long hours comfort | Pneumatic Hydraulic with 4 inch seat height adjustment | Breathable contoured Mesh Back Fabric | Chair comes with Sturdy Metal Base for extra strength. 3) Lumbar Adjustments : Lumbar adjustments can be pushed upward, down for better supports to the back. It also features locking back support lever adjustment, if you wish to relax or stretch legs! 4) Arm-rest : Padded Arm-rest. 5) Height Suitability : 5 ft to 6 ft. 6) Weight Capacity : 105 Kgs. 7) BIFMA Certified. 8) Warranty : 12 Months Warranty against Manufacturing Defects.",
+  //         originalPrice: 3999,
+  //         discountedPrice: 1478,
+  //         extras:["../img/img/chair/img-c.jpeg","../img/img/chair/img-d.jpeg","../img/img/chair/img-a.jpeg","../img/img/chair/img-b.jpeg"]
+  //     }
       
 ,
   {
@@ -283,6 +283,113 @@ const productData=[
     discountedPrice: 1949,
     extras:["../img/img/waterpf/img-a.jpeg","../img/img/waterpf/img-b.jpeg"]
   },
+  {
+    id:"pYsVFOLJYFsLKTt4hosWdfk5cZ3PNkoFtubTsaB8vDEKh4VL2-1",
+    title: "OnePlus Buds 3 TWS, in Ear Earbuds with Sliding Volume Control and 49dB ANC Bluetooth Gaming  (Metallic Gray IN, True Wireless)",
+    img: [
+      "https://rukminim2.flixcart.com/image/1250/400/xif0q/headphone/h/e/h/buds-3-e509a-oneplus-original-imagwynyzms78bsg.jpeg?q=20&crop=false",     "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/k/h/c/buds-3-e509a-oneplus-original-imagwynyrx5gc5ph.jpeg?q=70&crop=false",
+     "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/s/b/g/buds-3-e509a-oneplus-original-imagwynyejujguzj.jpeg?q=70&crop=false",
+     "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/x/t/v/buds-3-e509a-oneplus-original-imagwynydtkkwgxg.jpeg?q=70&crop=false",
+     "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/8/7/o/buds-3-e509a-oneplus-original-imagwynyxjpdrcf8.jpeg?q=70&crop=false",
+     "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/k/0/5/buds-3-e509a-oneplus-original-imagwynyxtkqpezw.jpeg?q=70&crop=false",
+     "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/v/j/v/-original-imagxz9hrx7ynznz.jpeg?q=70&crop=false",
+
+
+    ],
+    description: "OnePlus Buds 3 comes with Best in Class Sound Quality with 10.4mm + 6mm dynamic dual driver. It has a sliding volume control and comes with a 49dB adaptive noise cancellation technology. It has 3-built in microphones on each earbuds which ensures crystal clear calls. OnePlus Buds 3 can simultaneosuly connect to two devices (supports dual connection) and comes with IP55 rating (dust & water resistance). With 10mins of fast charging you can get 7hrs of playback time with total music playback upto 44hrs with ANC off. It supports Bluetooth 5.3 and has a 94ms ultra-low latency.",
+    originalPrice: 5449,
+    discountedPrice: 99,
+    extras:["../img/img/oneplus-tws/img-a.jpeg","../img/img/oneplus-tws/img-b.jpeg"]
+  },
+  {
+    id:"pYsVFOLJYFsLKTt4hosWdfk5cZ3PNkoFtubTsaB8vDEKh4VL2-2",
+    title: "JBL Cinema SB580, Dolby Atmos with Wireless Subwoofer, HDMI eARC 440 W Bluetooth Soundbar  (Black, 3.1 Channel)",
+    img: [
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/speaker/a/f/w/-original-imahf5sz3sazgsnu.jpeg?q=70&crop=false",
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/speaker/l/y/q/-original-imahfj6zg9e4nbjg.jpeg?q=70&crop=false",
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/speaker/q/9/x/-original-imahfj6zxxt98j3d.jpeg?q=70&crop=false",
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/speaker/v/x/l/-original-imahfj6zyvpkyhkh.jpeg?q=70&crop=false",
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/speaker/r/j/5/-original-imahfj6znztf5mur.jpeg?q=70&crop=false",
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/speaker/w/8/k/-original-imahfj6zm2sdajd8.jpeg?q=70&crop=false"
+
+
+
+    ],
+    description: "1 Soundbar, Subwoofer, Remote Control with Batteries, HDMI Cable, Quick Start Guide, Safety Instruction, Warranty Card, Wall Mount Bracket Kit with Screws, 8 pcs Power Cords",
+    originalPrice:26999,
+    discountedPrice: 399,
+    extras:["../img/img/jbl-cinema/img-a.jpeg","../img/img/jbl-cinema/img-b.jpeg","../img/img/jbl-cinema/img-c.jpeg"]
+  },
+  {
+    id:"pYsVFOLJYFsLKTt4hosWdfk5cZ3PNkoFtubTsaB8vDEKh4VL2-3",
+    title: "Mivi SuperPods Opera earbuds [Flagship Launch], Hi-res Audio with LDAC, 3D Soundstage Bluetooth  (Popsicle Peach, True Wireless)",
+    img: [
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/8/k/l/-original-imah3vawmh6j4rhj.jpeg?q=70&crop=false",
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/6/5/w/-original-imah3vawymherxv4.jpeg?q=70&crop=false",
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/x/0/d/-original-imah3vawztezyrgm.jpeg?q=70&crop=false",
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/d/z/r/-original-imah3vawgpge4qbz.jpeg?q=70&crop=false",
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/x/0/n/-original-imah3vaw2v9zs2pq.jpeg?q=70&crop=false",
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/c/m/q/-original-imah3wqghtp7gzb4.jpeg?q=70&crop=false",
+
+
+    ],
+  description: 'Mivi SuperPods Opera has been crafted to offer superior sound clarity with Hi-res Audio with LDAC. It is specifically crafted for Audiophiles who love listening to music and are particular about the quality of audio based on genres. With Hi-res Audio, SuperPods Opera enhances the minutest of details in the song. "HD Sound Just got Ultra HD", is the audio expectation with powerfully engineered flagship TWS made to offer deep, rich and balanced sound. These Bluetooth headsets come with Quad Mic AI-ENC for HD call clarity. They also have 3D Soundstage, a revolutionary audio tech with which you can hear each instrument in a song clearly. It also comes with spatial audio for a surround sound listening experience. The SuperPods Operas comes with 60 Hours of combined playtime and offers 8.5 hours of on-buds playtime and Type-C swift charging. The earbuds also offer you 13mm high-fidelity drivers to provide you with the best listening experience across genres. These powerful industry-leading tech makes these wireless Bluetooth earphones unapologetically, one of the best earbuds in the market. The Lossless Digital Audio Codec (LDAC) helps in transmitting Hi-Res Audio with no significant loss in quality. They also come with IPX 4.0 sweat resistance, ready to be worn anytime no matter how intense or hustling your routine is. They have been made in India with love by us at Mivi Design Studio.',
+    originalPrice:1999,
+    discountedPrice: 179,
+    extras:["../img/img/mivi-tws/img-a.jpeg","../img/img/mivi-tws/img-b.jpeg","../img/img/mivi-tws/img-c.jpeg","../img/img/mivi-tws/img-d.jpeg"]
+  },
+  {
+    id:"pYsVFOLJYFsLKTt4hosWdfk5cZ3PNkoFtubTsaB8vDEKh4VL2-4",
+    title: "Apple iPhone 14 (Blue, 128 GB)",
+    img: [
+     "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=70&crop=false",
+     "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/5/w/3/-original-imaghxcpnf8aay8h.jpeg?q=70&crop=false",
+     "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/n/b/z/-original-imaghxcpwuhbghgh.jpeg?q=70&crop=false",
+     "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/5/i/7/-original-imaguypzzhbzm5an.jpeg?q=70&crop=false",
+     "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/e/f/h/-original-imaguypztg4ddpes.jpeg?q=70&crop=false",
+     "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/a/q/n/-original-imagh2gw4zqxyzst.jpeg?q=70&crop=false",
+     "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/1/d/y/-original-imaghxcpvtta2hzs.jpeg?q=70&crop=false",
+     "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/q/b/i/-original-imaghxcptg5mdycw.jpeg?q=70&crop=false",
+     "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/n/t/g/-original-imaghxcp4ctcfwff.jpeg?q=70&crop=false",
+     "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/g/3/k/-original-imaghxcpnmh9y8ga.jpeg?q=70&crop=false"
+    ],
+  description: 'Stay productive and improve your performance with the Super Retina XDR display that is comfortable for the eyes. Powered with a 12 MP main camera, enjoy taking pictures with friends and family. With a built-in rechargeable lithium-ion battery and equipped with the MagSafe wireless charging, you can charge your phone quickly up to 50 % in just half an hour by using a 20 W adapter. This phone is loaded with a horde of exciting features such as Siri, face ID, barometer, ambient light sensors etc., and is also resistant to dust and water as it is IP68 rated.',
+    originalPrice:57999,
+    discountedPrice: 3499,
+    extras:["../img/img/iphone/img-a.jpeg","../img/img/iphone/img-b.jpeg"]
+  },
+  {
+    id:"pYsVFOLJYFsLKTt4hosWdfk5cZ3PNkoFtubTsaB8vDEKh4VL2-5",
+    title: "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 128 GB)  (8 GB RAM)",
+    img: [
+   "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/g/p/d/nord-ce-3-lite-5g-cph2467-oneplus-original-imah4ehbgmz4qzhz.jpeg?q=70&crop=false",
+   "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/x/y/b/nord-ce-3-lite-5g-cph2467-oneplus-original-imah4ehbazb7cs4f.jpeg?q=70&crop=false",
+   "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/l/5/t/nord-ce-3-lite-5g-cph2467-oneplus-original-imah4ehbdfbfwrkr.jpeg?q=70&crop=false",
+   "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/n/0/9/nord-ce-3-lite-5g-cph2467-oneplus-original-imah4ehbhkutcvvz.jpeg?q=70&crop=false"
+    ],
+  description: "This device is globally unlocked and ready to be used with your preferred GSM Carrier. THIS DEVICE IS NOT COMPATIBLE with CDMA carriers such as Cricket, Verizon, Sprint, Boost Mobile, US Cellular, etc. SIM CARD NOT INCLUDED. Please confirm device compatibility with your service provider before placing your order, OnePlus Nord N20 SE You've got the power Charge fast and keep moving A low battery will never slow you down, with 33W SUPERVOOCTM3 fast charging that boosts your battery life by 50% in just 34 minutes4.The power to play all day Get all the juice you need to game, browse, chat, and swipe for a full day of use, with a big 5,000mAh battery5 and features like Super Power Saving Mode, that gives you up to 90 minutes of talk time or 53 minutes of texting on just 5% battery6.Sneakily premium design A phone this affordable shouldn’t look this good.",
+    originalPrice:19999,
+    discountedPrice: 2499,
+    extras:[]
+  },
+  {
+    id:"pYsVFOLJYFsLKTt4hosWdfk5cZ3PNkoFtubTsaB8vDEKh4VL2-6",
+    title: "Noise 3",
+    img: [
+      "https://www.gonoise.com/cdn/shop/files/Noise-three---carousel-3.png?v=1701345285",
+      "https://www.gonoise.com/cdn/shop/files/Noise-three---carousel-2.png?v=1701345285",
+      "https://www.gonoise.com/cdn/shop/files/Noise-three---carousel-1.png?v=1701345285",
+      "https://www.gonoise.com/cdn/shop/files/Noise-three---carousel-4.png?v=1701345285",
+
+    ],
+  description: "Up To 70 hours of playtime, Dual Pairing, Gaming Mode, Low Latency(Up to 45ms), Foldable Design",
+    originalPrice:1999,
+    discountedPrice: 299,
+    extras:["../img/img/noise-earphone/img-a.jpeg","../img/img/noise-earphone/img-b.jpeg"]
+  },
+  
+
+
   
 
 ]

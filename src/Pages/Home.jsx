@@ -51,10 +51,10 @@ const Home = () => {
     <>
       <Navbar />
       <div className=" flex justify-between bg-white p-2">
-        {data?.filter((elem, ind) => ind < 4)?.map((elem, ind) => (
-          <div className='heroCard' key={ind}>
-            <img loading='lazy' src={elem.img} alt="error" />
-            <span>{elem.title}</span>
+        {data?.filter((elem, ind) => ind < 5)?.map((elem, ind) => (
+          <div className='heroCard flex flex-col justify-center align-center' key={ind}>
+            <img loading='lazy'className='h-[40px]' src={elem.img} alt="error" />
+            <span className='text-[12px]'>{elem.title}</span>
           </div>
         ))}
       </div>
@@ -114,7 +114,6 @@ const Home = () => {
                 <p className="text-black">₹{product.discountedPrice}</p>
                 <img src="https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/fa_62673a.png" alt="" className="h-5 w-auto" />
               </div>
-              <div className='discount text-center my-1 text-gray-400'>Delivery in Two Days</div>
             </div>
           </div>
         ))}

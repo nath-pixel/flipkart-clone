@@ -1,6 +1,6 @@
 .Navbar-main {
     width: 100%;
-    padding: 10px 20px;
+    padding: 10px 15px;
     background: #2874f0;
     color: white;
 }
@@ -56,7 +56,7 @@ justify-content: center;
      }
      .lower .searchBar{
         display: block;
-        width: 90%;
+        width: 100%;
         height: 30px;
         outline: none;
         font-family: Arial,sans-serif;

@@ -1,7 +1,7 @@
 const data=[
     {
-        title:"Offer zone",
-        img:"https://rukminim2.flixcart.com/flap/80/80/image/0f3d008be60995d4.jpg?q=90",
+        title:"Grocery",
+        img:"https://rukminim2.flixcart.com/flap/64/64/image/29327f40e9c4d26b.png?q=100",
         link:""
      },
      {
@@ -10,8 +10,8 @@ const data=[
         link:""
      },
      {
-        title:"appliances",
-        img:"https://rukminim2.flixcart.com/fk-p-flap/80/80/image/0139228b2f7eb413.jpg?q=100",
+        title:"Electronics",
+        img:"https://rukminim2.flixcart.com/flap/64/64/image/69c6589653afdb9a.png?q=100",
         link:""
      },
      {
@@ -20,10 +20,11 @@ const data=[
         link:""
      },
      {
-        title:"Travel",
-        img:"https://rukminim2.flixcart.com/flap/80/80/image/71050627a56b4693.png?q=100",
-        link:""
-     },
+      title:"Appliances",
+      img:"https://rukminim2.flixcart.com/fk-p-flap/64/64/image/0139228b2f7eb413.jpg?q=100",
+      link:""
+   }
 ]
+
 
 export default data
