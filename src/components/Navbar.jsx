@@ -1,6 +1,5 @@
 import React from 'react'
 import "../styles/Navbar.css"
-import { GiHamburgerMenu } from "react-icons/gi";
 import { IoCartOutline } from "react-icons/io5";
 const Navbar = () => {
   return (
